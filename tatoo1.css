@@ -1,0 +1,20 @@
+*{
+    background-color: black;
+}
+h1{
+    color: white;
+    size: 50px;
+    text-align: center;
+    background-color: black;
+}
+
+a{
+    color: white;
+    text-size-adjust: 50;
+    background-color: white;
+    size: 50px;
+}
+h3{
+    color: white;
+    text-align: left;
+}

@@ -1,0 +1,38 @@
+
+nav, main{
+    background-image: url(https://media.gettyimages.com/photos/male-doing-image-on-arm-picture-id669911398);
+}
+HEADER{
+    background-image: url(https://img.buzzfeed.com/buzzfeed-static/static/2021-06/29/14/asset/417e073acdb9/sub-buzz-11341-1624977200-22.png);
+}
+h1{
+    color: white;
+    text-align: center;
+    font-weight: 1000;
+}
+nav>h1{
+    text-align: left;
+    font-weight: 700;    ;
+}
+a{
+    color: white;
+
+}
+nav>img {
+    overflow-clip-margin: content-box;
+    overflow: clip;
+    align-content: end;
+}   
+nav>h1:hover
+{
+    color: black;
+}
+main{
+    background-color: black;}
+main>p {
+    text-align: left;
+    font-size: xx-large;
+    font-style: italic;
+    color: white;
+    background-color: black;
+} 
